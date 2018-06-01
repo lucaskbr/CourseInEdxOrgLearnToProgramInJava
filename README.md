@@ -1,2 +1,2 @@
 # CourseInEdxOrgLearnToProgramInJava
-Projetos propostos pelo Learn To Program In Java da Microsoft
+Projetos propostos pelo curso Learn To Program In Java da Microsoft
